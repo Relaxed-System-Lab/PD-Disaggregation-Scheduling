@@ -1,5 +1,5 @@
 {
-    "name": "sglang",
+    "name": "PD-Disaggregation-Scheduling",
     "build": {
         "dockerfile": "Dockerfile"
     },
